@@ -12,6 +12,7 @@ const CONFIG = {
     question:'Vậy là anh được ưu tiên xếp đầu hàng trong số những người đang để ý e đúng không? =)))',
     btnReply: 'Cứ cho là vậy đi =))',
     reply: 'Hẹn hò thì hẹn hò mà không hẹn hò thì hẹn hò =)) <33333333',
-    mess: 'Anh biết mà 🥰.',
+    mess: 'Anh biết mà ',
     messDesc: 'Vậy valentines a mời e một chiếc hẹn ăn tối nhé =))',
     btnAccept: 'Okiiiii lun <3',
+    
